@@ -3,7 +3,7 @@ As a seasoned Product Executive with over 10 years of experience, I have consist
 
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.alpozkan.info?utm_source=github-profile&utm_medium=github-count&utm_campaign=github-readme&utm_id=github) 
+[![Website](https://img.shields.io/badge/my_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.alpozkan.info?utm_source=github-profile&utm_medium=github-count&utm_campaign=github-readme&utm_id=github) 
 [![Resume](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/Resume-Alp-Ozkan) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alpozkan) 
 [![Medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alpozkanm) 
